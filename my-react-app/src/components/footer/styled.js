@@ -8,7 +8,6 @@ export const FooterStyled = styled.footer`
   bottom: 0;
   left: 0;
   right: 0;
-  position: fixed;
   height: 50px;
   border-top: 1px solid #ccc;
 `;

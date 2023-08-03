@@ -11,10 +11,6 @@ function Header() {
       route: "/aboutMe",
       description: "About Me",
     },
-    {
-      route: "/portfolio",
-      description: "Portfolio",
-    },
   ];
   return (
     <HeaderStyled>
